@@ -1,0 +1,19 @@
+{     "customer":{
+          "name":"Customer 1", 
+          "company":"Company 1", 
+          "phone":"591 564 5464",
+          "address1":"Eastern Howard Drive", 
+          "city":"Miami", 
+          "state":"FL", 
+          "postalCode":"33191", 
+          "countryCode":"US" },
+     "item":{
+          "weight":"1",
+          "weight_unit":"LB",
+          "packaging":"BOX",
+          "description":"magazines",
+          "length": "10",
+          "width": "20",
+          "height": "10",
+          "dim_unit": "IN" }
+}
