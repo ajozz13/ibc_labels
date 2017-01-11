@@ -58,7 +58,7 @@ begin
         # proxy 'http://username:password@hostname:port'
         
 
-        ENV[ 'http_proxy' ] = "http://proxy.ibcinc.com:3128" if use_http_proxy    
+        ENV[ 'http_proxy' ] = "http://proxy.address.com:3128" if use_http_proxy    
         proxy_uri = URI.parse( ENV[ 'http_proxy' ] ) if use_http_proxy
         
 
